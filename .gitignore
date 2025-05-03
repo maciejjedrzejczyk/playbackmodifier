@@ -39,4 +39,4 @@ analysis_*.txt
 .DS_Store
 Thumbs.db
 .json
-json
+json*.json
